@@ -11,7 +11,7 @@ each game, from recent to least:
 **[fastclick](https://github.com/itsbillzhang/Minigames/blob/master/fastclick.c)**- how many times can you press enter in 5 seconds? (04/16/2019):
 - Learnt how to use time.h functions, such as clock().
 
-**[connectfour](https://github.com/itsbillzhang/Minigames/blob/master/connectfour.c)**- get 4 in a row diagonally, vertically, and horizontaly. 2 player support (04/16/2019):
+**[connectfour](https://github.com/itsbillzhang/Minigames/blob/master/connect4.c)**- get 4 in a row diagonally, vertically, and horizontaly. 2 player support (04/16/2019):
 - Mainly culmination of what I learnt in CS136. 
 - Learnt how to randomly generate numbers with rand().
 - Includes malloced memory, dealing with overflows.
