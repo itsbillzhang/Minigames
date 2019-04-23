@@ -3,7 +3,11 @@
 These are small games coded for fun. Below lists some things I have learnt from coding
 each game, from recent to least:
 
-
+**[tictactoe](https://github.com/itsbillzhang/Minigames/blob/master/tictactoe.c)**
+- Developed an more efficient algorithm to find move wins. (in comparison to connect 4)
+- Features 3 levels of AI.
+	- Learnt and incorporated minimax algoithm in Level 3 AI.
+  
 **[hangman](https://github.com/itsbillzhang/Minigames/blob/master/hangman.c)** - guess the word picked! (04/19/2019):
 - This was the first program I made without using a IDE. Learnt command line basics.
 - First time using 2D arrays.
