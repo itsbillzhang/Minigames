@@ -3,7 +3,7 @@
 These are small games coded for fun. Below lists some things I have learnt from coding
 each game, from recent to least:
 
-**[tictactoe](https://github.com/itsbillzhang/Minigames/blob/master/tictactoe.c)**
+**[tictactoe](https://github.com/itsbillzhang/Minigames/blob/master/tictactoe.c)** (04/23/2019) 
 - Developed an more efficient algorithm to find move wins. (in comparison to connect 4)
 - Features 3 levels of AI.
 	- Learnt and incorporated minimax algoithm in Level 3 AI.
